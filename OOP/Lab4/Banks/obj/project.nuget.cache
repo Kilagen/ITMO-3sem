@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dII1BiuIxrGFy7jhBJH9YamB7p5UeWERCscPeznuxogmHjq9yZVoYDBziLtZueUbc31amd0WvYBuvQ1cAXn2qw==",
+  "success": true,
+  "projectFilePath": "D:\\HW\\OOP\\Kilagen\\Lab4\\Banks\\Banks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kil4g\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

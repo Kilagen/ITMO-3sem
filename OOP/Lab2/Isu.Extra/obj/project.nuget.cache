@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDM3oGYa0/P2lXuoXbzlQDx0CqL99iyt8xde9KFnCBa3RmDjXv9OPMg/+/IaSRVodultsu57PVY31+dmQjuiRg==",
+  "success": true,
+  "projectFilePath": "D:\\HW\\OOP\\Kilagen\\Lab2\\Isu.Extra\\Isu.Extra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kil4g\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
